@@ -134,11 +134,6 @@
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
-- [ ] API <!--[Link](Uebungen/Modul016_API)-->
-- [ ] WPF <!--[Link](Uebungen/Modul016_WPF)-->
-
-
-## M017 | ZUSÄTZLICHE THEMEN (optional)
-- [ ] Klassendiagramme
-- [ ] Deployment
-- [ ] .NET Framework/.NET Core/.NET 5
+- [x] API [Link](Uebungen/Modul016_API)
+- [x] Console [Link](Uebungen/Modul016_Console)
+- [x] WPF [Link](Uebungen/Modul016_WPF)
